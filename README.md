@@ -3,7 +3,7 @@
 This the the repository for the SIGIR 2020 paper "[***Enhancing Text Classification via Discovering Additional Semantic Clues from Logograms***](https://dl.acm.org/doi/abs/10.1145/3397271.3401107)".
 
 By leveraging the cross-linguistic variation of two types of writing systems, Leco utilizes logograms to capture reliable clues for the text classification of phonographic languages, especially for low-resource ones.
-
+![RUNOOB 图标](./Framework.png)
 
 ## Overview
 
