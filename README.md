@@ -27,7 +27,7 @@ If you find this study helpful or related, please kindly consider citing as:
 @inproceedings{Leco,
   title = {Enhancing Text Classification via Discovering Additional Semantic Clues from Logograms},
   author = {Chen Qian and Fuli Feng and Lijie Wen and Li Lin and Tat-Seng Chua},
-  booktitle = {Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR'20)},
+  booktitle = {Proceedings of the 43rd International ACM SIGIR Conference on Research and Development in Information Retrieval (SIGIR)},
   year = {2020},
   pages = {1201–1210}
 }
